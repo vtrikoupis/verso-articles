@@ -1,5 +1,5 @@
 {
-    "cleanUrls": true,
+    "cleanUrls": false,
     "redirects": [
         {
             "source": "/nytimes/20-02-2022/01.pdf",
