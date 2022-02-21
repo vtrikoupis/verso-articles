@@ -2,8 +2,8 @@
     "cleanUrls": false,
     "redirects": [
         {
-            "source": "/nytimes/01.pdf",
-            "destination": "/nytimes/20-02-2022/01.pdf"
+            "source": "/nytimes/02.pdf",
+            "destination": "/nytimes/20-02-2022/02.pdf"
         }
     ]
 }
