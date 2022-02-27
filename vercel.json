@@ -20,6 +20,10 @@
         {
             "source": "/nytimes/04.pdf",
             "destination": "/nytimes/28-02-2022/02.pdf"
+        },
+        {
+            "source": "/nytimes/05.pdf",
+            "destination": "/nytimes/28-02-2022/03.pdf"
         }
     ]
 }
