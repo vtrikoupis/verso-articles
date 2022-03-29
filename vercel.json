@@ -24,6 +24,10 @@
         {
             "source": "/nytimes/05.pdf",
             "destination": "/nytimes/28-02-2022/03.pdf"
+        },
+        {
+            "source": "/assets/nytimes.svg",
+            "destination": "/assets/nytimes.svg"
         }
     ]
 }
