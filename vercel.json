@@ -28,6 +28,22 @@
         {
             "source": "/nytimes.svg",
             "destination": "/assets/nytimes.svg"
+        },
+        {
+            "source": "/theeconomist.svg",
+            "destination": "/assets/theeconomist.svg"
+        },
+        {
+            "source": "/wired.svg",
+            "destination": "/assets/wired.svg"
+        },
+        {
+            "source": "/wsj.svg",
+            "destination": "/assets/wsj.svg"
+        },
+        {
+            "source": "/ft.svg",
+            "destination": "/assets/ft.svg"
         }
     ]
 }
