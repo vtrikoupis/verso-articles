@@ -46,6 +46,10 @@
             "destination": "/assets/sifted.svg"
         },
         {
+            "source": "/theinformation.svg",
+            "destination": "/assets/theinformation.svg"
+        },
+        {
             "source": "/ft.svg",
             "destination": "/assets/ft.svg"
         }
